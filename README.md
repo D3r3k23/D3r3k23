@@ -1,1 +1,1 @@
-[![D3r3k23's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&title_color=ffff00&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+[![D3r3k23's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1f1f1f)](https://github.com/anuraghazra/github-readme-stats)
