@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&layout=compact&theme=gruvbox&langs_count=6&hide=html" alt="D3r3k23's Language stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&layout=compact&theme=gruvbox&langs_count=6&exclude_repo=CptS-442" alt="D3r3k23's Language stats">
   </a>
 </p>
 
