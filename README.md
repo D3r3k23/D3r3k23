@@ -4,6 +4,8 @@
   </a>
 </p>
 
+[![D3r3k23's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3r3k23)](https://github.com/anuraghazra/github-readme-stats&theme=gruvbox)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=LastFmGet)](https://github.com/D3r3k23/LastFmGet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=DrkCraft)](https://github.com/D3r3k23/DrkCraft)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=SpaceRun)](https://github.com/D3r3k23/SpaceRun)
