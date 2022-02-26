@@ -1,8 +1,10 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&layout=compact&theme=gruvbox&langs_count=10&exclude_repo=CptS-442" alt="Language stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&layout=compact&theme=gruvbox&langs_count=10" alt="Language stats">
   </a>
 </p>
+
+<!-- &exclude_repo=CptS-442 -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=LastFmGet)](https://github.com/D3r3k23/LastFmGet)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=DrkCraft)](https://github.com/D3r3k23/DrkCraft)
