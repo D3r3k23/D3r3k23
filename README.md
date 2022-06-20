@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/D3r3k23">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3r3k23&layout=compact&theme=gruvbox&langs_count=10&exclude_repo=CptS-442,CptS-460" alt="Language stats">
   </a>
 </p>
