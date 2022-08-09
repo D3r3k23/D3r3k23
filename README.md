@@ -11,5 +11,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=Argv)](https://github.com/D3r3k23/Argv)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=argparse-cpp)](https://github.com/D3r3k23/argparse-cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=DrkEngine)](https://github.com/D3r3k23/DrkEngine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=VGA-Console)](https://github.com/D3r3k23/VGA-Console)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=D3r3k23&repo=strip_markdown)](https://github.com/D3r3k23/strip_markdown)
